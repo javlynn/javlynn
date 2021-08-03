@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @javlynn
 - 🤖 I’m the sole developer of the bot, 'bonk'
 - 🌱 I’m currently learning a lot of programming languages
+- 🪟 I use Windows 11 as my default system
 - 📫 for business inquiries email, javlynn.dev@gmail.com
 
 <!---
